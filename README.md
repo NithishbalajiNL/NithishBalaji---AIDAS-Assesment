@@ -8,5 +8,7 @@ Technologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
 
 Description: A script assessing conversational business intelligence interactions.
 
+Technologies Used: Python, NLP, Streamlit
+
 
 

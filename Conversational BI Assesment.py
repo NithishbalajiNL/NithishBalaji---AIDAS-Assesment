@@ -130,6 +130,7 @@ def top_selling_products_chart(df):
     return fig
 
 st.title("Business Intelligence Chatbot")
+st.write("Hey there! I'm your BI Assistant. Ask me anything about your sales, customers, and trends!")
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
